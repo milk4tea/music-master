@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,gBACA,UAAY,CAGd,KACE,kBACA,UAAY,CAGd,WACE,cAAgB","file":"static/css/main.0e204014.css","sourcesContent":["body {\n  background: #000;\n  color: #fff;\n}\n\n.App {\n  text-align: center;\n  padding: 5%;\n}\n\n.App-title {\n  font-size: 26px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
